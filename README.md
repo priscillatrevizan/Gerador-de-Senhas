@@ -24,7 +24,7 @@ Para obter mais informações sobre a biblioteca Nanoid, consulte a [Documentaç
 2. Clique no botão para gerar uma nova senha.
 3. Copie a senha gerada e utilize-a conforme necessário.
 
-Uma versão online pode ser acessada em:
+Uma versão online pode ser acessada em: https://gerador-de-senhas-brown-phi.vercel.app/
 
 ### Contribuições
 
