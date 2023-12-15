@@ -1,7 +1,7 @@
-import { nanoid } from "nanoid"
+import { nanoid } from "nanoid";
 import './style.css'
 
-const passwordBtnEl =  document.querySelector('button')
+const passwordBtnEl = document.querySelector('button')
 const diplayPasswordEl = document.querySelector('h2')
 
 passwordBtnEl.addEventListener('click', () => {

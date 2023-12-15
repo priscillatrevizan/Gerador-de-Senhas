@@ -1,5 +1,5 @@
 {
-  "name": "Gerador-de-Senhas",
+  "name": "gerador-de-senhas",
   "version": "1.0.0",
   "description": "O melhor gerador de senhas de todo o mundo",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nanoid": "^4.0.0",
+    "nanoid": "^4.0.2",
     "vite": "^2.9.15"
   },
   "type": "module"
